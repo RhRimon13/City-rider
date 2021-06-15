@@ -1,0 +1,30 @@
+[
+    {
+        "transportId": 1,
+        "transportName": "Bike",
+        "transportCapacity": 1,
+        "transportImage": "https://i.pinimg.com/564x/49/aa/46/49aa46aa77946ebe341e1b60657da875.jpg",
+        "transportRate": 150
+    },
+    {
+        "transportId": 2,
+        "transportName": "Car",
+        "transportImage": "https://i.pinimg.com/236x/4b/00/bc/4b00bc463f7ff2c7c341e60f8462afb8.jpg",
+        "transportCapacity": 3,
+        "transportRate": 100
+    },
+    {
+        "transportId": 3,
+        "transportName": "Bus",
+        "transportImage": "https://i.pinimg.com/236x/04/6b/38/046b3884bbd9d16ba053a80c95b8f295.jpg",
+        "transportCapacity": 50,
+        "transportRate": 50
+    },
+    {
+        "transportId": 4,
+        "transportName": "Train",
+        "transportImage": "https://i.pinimg.com/236x/c4/cd/3b/c4cd3bf4e308b95b3193eed6ecdb9d97.jpg",
+        "transportCapacity": 100,
+        "transportRate": 30
+    }
+]

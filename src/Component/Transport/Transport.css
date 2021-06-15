@@ -1,0 +1,14 @@
+.transport-div{
+    background-color: lavender;
+    margin-bottom: 20px;
+}
+.title{
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+}
+.transport-div img{
+    height: 200px;
+    width: 100%;
+    opacity: 1;
+}

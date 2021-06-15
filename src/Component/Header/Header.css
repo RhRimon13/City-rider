@@ -1,0 +1,11 @@
+.navbar-component{
+    display: inline;
+    
+  }
+  
+.navbar a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgba(8, 8, 8, 0.877);
+    font-weight: bold;
+  }

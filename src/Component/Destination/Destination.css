@@ -1,0 +1,19 @@
+.transport-details img{
+    height: 80px;
+    width: 70px;
+}
+.search-btn{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.transportName{
+    margin-left: 20px;
+}
+.transportCapacity{
+    margin-left: 20px;
+}
+.transportRate{
+    margin-left: 20px;
+}
